@@ -37,6 +37,11 @@ function Header() {
           </div>
 
           {/* Site navigation */}
+          <span id='setmusic'>
+        <audio controls loop>
+          <source src='https://blog.kakaocdn.net/dn/cj6YgO/btrx4S9ijts/UVErKqVLsoHcI3zrB9WKMK/AJR%20-%20Burn%20The%20House%20Down%20%5BOfficial%20Video%5D%28MP3_160K%29.mp3?attach=1&knm=tfile.mp3'  type='audio/mp3'></source>
+        </audio>
+        </span>
           <nav className="flex flex-grow">
             <ul className="flex flex-grow justify-end flex-wrap items-center">
               <li>
